@@ -202,6 +202,7 @@ $ ls -a
 ```bash
 $ ls -l
 ```
+<br>
 
 ```bash
 [pridon@laptop:~]$ ls -l
