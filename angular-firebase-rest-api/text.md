@@ -1,5 +1,7 @@
 # Angular & REST API: როგორ დავუკავშიროთ ანგულარი ბექენდს?
 
+![Angular & REST API: როგორ დავუკავშიროთ ანგულარი ბექენდს?](https://img.youtube.com/vi/TaV06HLwR0E/maxresdefault.jpg)
+
 ## სარჩევი
 
 - [Angular & REST API: როგორ დავუკავშიროთ ანგულარი ბექენდს?](#angular--rest-api-როგორ-დავუკავშიროთ-ანგულარი-ბექენდს)
